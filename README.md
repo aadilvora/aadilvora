@@ -168,19 +168,20 @@ Bespoke WordPress theme built from scratch with ACF Pro — zero page-builder bl
 <br>
 
 <!-- ======================= STATS ======================= -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;GitHub stats
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;By the numbers
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aadilvora&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=19E0C4&icon_color=19E0C4&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats">
-  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilvora&layout=compact&hide_border=true&title_color=19E0C4&text_color=c9d1d9&bg_color=0d1117" alt="Top languages">
+  <img src="https://img.shields.io/badge/Experience-4%2B%20years-19E0C4?style=for-the-badge&labelColor=0d1117" alt="Experience">
+  <img src="https://img.shields.io/badge/Shipped-30%2B%20projects-FFC21A?style=for-the-badge&labelColor=0d1117" alt="Projects">
+  <img src="https://img.shields.io/badge/Client%20countries-5-22C55E?style=for-the-badge&labelColor=0d1117" alt="Countries">
+  <img src="https://img.shields.io/badge/Mentoring-3%20developers-A78BFA?style=for-the-badge&labelColor=0d1117" alt="Mentoring">
 </p>
 
 <p align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadilvora&bg_color=0d1117&color=19E0C4&line=19E0C4&point=ffffff&area=true&hide_border=true" alt="Activity graph">
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aadilvora&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies">
+  <img src="https://img.shields.io/badge/eSIM%20platform-190%2B%20countries-0EA5E9?style=for-the-badge&labelColor=0d1117" alt="eSIM">
+  <img src="https://img.shields.io/badge/DB%20response%20time-%E2%88%9265%25-F97316?style=for-the-badge&labelColor=0d1117" alt="DB">
+  <img src="https://img.shields.io/badge/Recruiting%20costs-%E2%88%9250%25-EC4899?style=for-the-badge&labelColor=0d1117" alt="Costs">
+  <img src="https://img.shields.io/badge/Tax%20jurisdictions-400%2B-14B8A6?style=for-the-badge&labelColor=0d1117" alt="Tax">
 </p>
 
 <br>
