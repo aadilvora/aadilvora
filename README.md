@@ -1,119 +1,214 @@
-<h1 align="center">Aadil Vora</h1>
+<!-- ======================= HEADER ======================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aadil%20Vora&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Senior%20Full%20Stack%20%26%20AI%20Integration%20Engineer&descAlignY=55&descSize=18" alt="Aadil Vora" />
 
 <p align="center">
-  <b>Senior Full Stack &amp; AI Integration Engineer</b><br>
-  I build production systems that run real businesses — headless commerce, AI automation and telecom APIs.
+  <a href="https://github.com/aadilvora">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=19E0C4&center=true&vCenter=true&width=700&lines=4%2B+years+building+production+systems;Next.js+%7C+Laravel+%7C+Node.js+%7C+React;AI+integration%3A+OpenAI%2C+Retell+AI%2C+WhatsApp+API;30%2B+apps+shipped+for+clients+in+5+countries" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <a href="https://linkedin.com/in/aadilvora"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://voraaadil.wuaze.com/?i=2"><img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+  <a href="https://voraaadil.wuaze.com/?i=2"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=firefoxbrowser&logoColor=19E0C4" alt="Portfolio"></a>
   <a href="mailto:voraaadil74@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Ahmedabad,%20India-059669?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://komarev.com/ghpvc/?username=aadilvora&style=for-the-badge&color=19E0C4&label=PROFILE+VIEWS" alt="Profile views">
 </p>
 
----
+<br>
 
-### About
+<!-- ======================= ABOUT ======================= -->
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"> &nbsp;About me
 
-Lead Full Stack Developer at **Lujayn Infoways** since August 2022. In four years I've shipped
-**30+ web applications, SaaS platforms and commercial plugins** for clients across the USA, UK,
-Spain, Austria and Australia — and I mentor a team of three junior developers through code review
-and architecture.
+```typescript
+const aadil = {
+  role:       "Lead Full Stack Developer @ Lujayn Infoways",
+  since:      "August 2022",
+  location:   "Ahmedabad, Gujarat, India 🇮🇳",
+  shipped:    "30+ web apps, SaaS platforms & commercial plugins",
+  clients:    ["USA", "UK", "Spain", "Austria", "Australia"],
+  mentoring:  "3 junior developers",
+  focus:      "where e-commerce meets AI and third-party APIs",
+  education:  "BCA, Gujarat University",
+  openTo:     "Full Stack / AI Integration Engineer roles"
+};
+```
 
-My work sits where **e-commerce meets AI and third-party APIs**: a global eSIM platform serving
-190+ countries, an AI voice-screening recruitment system, a WooCommerce chatbot sold as a
-commercial plugin, and a GIS tax engine covering Colorado's 400+ home-rule jurisdictions.
+> **Why this profile looks quiet:** almost everything I build lives in **private client
+> repositories under NDA**. So instead of code you can't see — every link below is a **live
+> production system you can open right now**.
 
-> Most of my code lives in private client repositories under NDA, so this profile is quiet by
-> design. **The links below are all live production systems you can open right now.**
+<br>
 
----
+<!-- ======================= PROJECTS ======================= -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Production work
 
-### Featured Production Work
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌍 [Blink eSIM](https://blinkesim.com)
+Global travel eSIM store — flat-rate unlimited data in **190+ countries**.
+
+Built the headless architecture end to end: Next.js on Vercel, decoupled WooCommerce backend, real-time eSIM provisioning via BICS, and a 24/7 WhatsApp ordering bot.
+
+`Next.js` `RSC` `Vercel` `WooCommerce` `BICS` `Twilio` `OpenAI`
+
+**→ Custom indexed MySQL tables cut DB response times by 65%**
+
+</td>
+<td width="50%" valign="top">
+
+### 🚚 [Driving Force](https://www.mydrivingforce.com/)
+AI-powered recruitment platform matching CDL truck drivers with fleet carriers.
+
+Retell AI voice agents screen and pre-qualify candidates around the clock, with GIS job mapping and live reporting dashboards.
+
+`Laravel` `MySQL` `Retell AI` `GIS`
+
+**→ Cuts carrier recruiting costs by up to 50%**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [AskMerch AI](https://askmerch.ai/)
+Commercial WooCommerce chatbot — run your whole store through chat.
+
+OpenAI structured outputs wired to WooCommerce via a secure Node.js/Express middleware gateway.
+
+`Node.js` `Express` `OpenAI` `WP Plugin`
+
+**→ Sold commercially to customers globally**
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [Blink eSIM RIA](https://ria.blinkesim.com/)
+Multi-admin operations dashboard for order management and support agents.
+
+A standalone React SPA talking to WooCommerce over optimised REST APIs, replacing slow native WP admin workflows.
+
+`React` `SPA` `REST API`
+
+**→ Materially faster support response times**
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧾 [Taxify Colorado](https://taxifycolorado.com/)
+Address-level sales tax across Colorado's **400+ home-rule jurisdictions**.
+
+Live GIS lookup at checkout via the official Colorado.gov API, plus automated CSV reporting for SUTS filing.
+
+`PHP` `EDD Pro` `Colorado GIS` `SUTS`
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [Parceleum Logistics](https://parceleumlogistics.com/)
+Multi-carrier tracking for ocean freight, air cargo and express parcels.
+
+Bespoke WordPress theme built from scratch with ACF Pro — zero page-builder bloat.
+
+`Custom WP Theme` `ACF Pro` `AJAX`
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More production systems</b></summary>
+
+<br>
 
 | Project | What it does | Stack |
 |---|---|---|
-| **[Blink eSIM](https://blinkesim.com)** | Global travel eSIM store, flat-rate data in 190+ countries | Next.js (App Router, RSC) · Vercel · Headless WooCommerce · BICS · Twilio · WhatsApp API |
-| **[Driving Force](https://www.mydrivingforce.com/)** | AI driver-recruitment platform; cut hiring costs up to 50% | Laravel · MySQL · Retell AI · GIS mapping |
-| **[AskMerch AI](https://askmerch.ai/)** | Commercial WooCommerce AI chatbot — manage a store by chat | Node.js · Express · OpenAI · WordPress plugin |
-| **[Blink eSIM RIA](https://ria.blinkesim.com/)** | Multi-admin order-ops dashboard replacing native WP admin | React SPA · WooCommerce REST |
-| **[Taxify Colorado](https://taxifycolorado.com/)** | Address-level sales tax across 400+ home-rule jurisdictions | PHP · EDD Pro · Colorado GIS/SUTS API |
-| **[Parceleum Logistics](https://parceleumlogistics.com/)** | Multi-carrier ocean, air and parcel freight tracking | Custom WP theme · ACF Pro · AJAX tracking APIs |
-| **[PropertyFacs](https://propertyfacs.com/)** | Rental property history and transparency reports | PHP · MySQL |
-| **[Tiny Care Agency](https://tinycareagency.com/)** | Bilingual (EN/FR) au pair placement platform | WordPress · Elementor Pro · TranslatePress |
+| **[PropertyFacs](https://propertyfacs.com/)** | Rental property history & transparency reports for landlords and property managers | `PHP` `MySQL` |
+| **[Tiny Care Agency](https://tinycareagency.com/)** | Bilingual (EN/FR) au pair & childcare placement platform, 12 pages with language routing | `WordPress` `Elementor Pro` `TranslatePress` |
 
----
+</details>
 
-### Engineering Highlights
+<br>
 
-- **Headless architecture at scale** — decoupled a Next.js/Vercel frontend from a WordPress/WooCommerce
-  backend for Blink eSIM, with custom indexed MySQL tables that bypassed `wp_postmeta` bottlenecks
-  and **cut database response times by 65%**.
-- **AI that does real work** — Retell AI voice agents screening candidates 24/7; OpenAI structured-JSON
-  agents performing order lookups, sales reporting and coupon creation through chat.
-- **Telecom automation** — real-time eSIM provisioning via BICS the moment payment clears, with QR
-  delivery and support handled end-to-end over the WhatsApp Business API.
-- **Commercial plugins** — authored and shipped WordPress/WooCommerce plugins sold to customers globally.
+<!-- ======================= TECH ======================= -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Tech stack
 
----
+<p align="center"><b>Languages</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,mysql&theme=dark" alt="Languages">
+</p>
 
-### Tech
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,jquery,bootstrap&theme=dark" alt="Frontend">
+</p>
 
-**Languages** &nbsp;
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<p align="center"><b>Backend &amp; CMS</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,wordpress&theme=dark" alt="Backend">
+</p>
 
-**Frontend** &nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+<p align="center"><b>AI, APIs &amp; Tooling</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/Retell_AI-6366F1?style=for-the-badge" alt="Retell AI">
+  <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio">
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,linux,vscode&theme=dark" alt="Tooling">
+</p>
 
-**Backend** &nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=flat-square&logo=woocommerce&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<br>
 
-**AI &amp; APIs** &nbsp;
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Retell AI](https://img.shields.io/badge/Retell_AI-6366F1?style=flat-square)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp_Business-25D366?style=flat-square&logo=whatsapp&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
-
-**Tooling** &nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
----
-
-### Beyond the day job
-
-I run **[@investwith.clarity.stockmarket](https://www.instagram.com/investwith.clarity.stockmarket/)**,
-an Instagram channel explaining IPOs and the Indian stock market to beginner investors. I built the
-whole production pipeline myself — a templated reel renderer, a 4K cover generator, and a
-Meta-compliant comment-to-DM automation service in Node.js.
-
----
-
-### Education
-
-**Bachelor of Computer Applications (BCA)** — Gujarat University, Ahmedabad
-
----
+<!-- ======================= STATS ======================= -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;GitHub stats
 
 <p align="center">
-  <i>Open to Full Stack / AI Integration Engineer roles.</i><br>
-  <a href="https://linkedin.com/in/aadilvora">LinkedIn</a> ·
-  <a href="https://voraaadil.wuaze.com/?i=2">Portfolio</a> ·
-  <a href="mailto:voraaadil74@gmail.com">Email</a>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aadilvora&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=19E0C4&icon_color=19E0C4&text_color=c9d1d9&bg_color=0d1117" alt="GitHub stats">
+  <img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadilvora&layout=compact&hide_border=true&title_color=19E0C4&text_color=c9d1d9&bg_color=0d1117" alt="Top languages">
 </p>
+
+<p align="center">
+  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=aadilvora&bg_color=0d1117&color=19E0C4&line=19E0C4&point=ffffff&area=true&hide_border=true" alt="Activity graph">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=aadilvora&theme=darkhub&no-frame=true&no-bg=true&margin-w=6&column=7" alt="Trophies">
+</p>
+
+<br>
+
+<!-- ======================= SIDE PROJECT ======================= -->
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Beyond the day job
+
+I run **[@investwith.clarity.stockmarket](https://www.instagram.com/investwith.clarity.stockmarket/)**,
+an Instagram channel explaining IPOs and the Indian stock market to beginner investors.
+
+I engineered the entire production pipeline myself:
+
+- 🎬 a **templated reel renderer** that turns a JSON script into a finished 1080×1920 MP4
+- 🖼️ a **4K cover generator** with an automated photo-compositing pipeline (OpenCV + PIL)
+- 💬 a **Meta-compliant comment-to-DM automation service** in Node.js, built entirely on the
+  official Graph API — no scraping, no browser automation
+
+<br>
+
+<!-- ======================= FOOTER ======================= -->
+<p align="center">
+  <b>Open to Full Stack / AI Integration Engineer roles — let's talk.</b>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/aadilvora"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://voraaadil.wuaze.com/?i=2"><img src="https://img.shields.io/badge/Portfolio-1a1a2e?style=for-the-badge&logo=firefoxbrowser&logoColor=19E0C4" alt="Portfolio"></a>
+  <a href="mailto:voraaadil74@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
