@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Aadil Vora - Senior Full Stack and AI Integration Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f2027"/>
+      <stop offset="50%" stop-color="#203a43"/>
+      <stop offset="100%" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#19E0C4"/>
+      <stop offset="100%" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#19E0C4" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#19E0C4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="260" fill="url(#bg)"/>
+  <ellipse cx="980" cy="60" rx="320" ry="200" fill="url(#glow)"/>
+
+  <g fill="#19E0C4" opacity="0.07">
+    <circle cx="120" cy="56" r="2.5"/><circle cx="190" cy="96" r="2.5"/><circle cx="260" cy="46" r="2.5"/>
+    <circle cx="330" cy="116" r="2.5"/><circle cx="60" cy="150" r="2.5"/><circle cx="400" cy="66" r="2.5"/>
+    <circle cx="900" cy="150" r="2.5"/><circle cx="1010" cy="96" r="2.5"/><circle cx="1120" cy="140" r="2.5"/>
+    <circle cx="1060" cy="40" r="2.5"/><circle cx="820" cy="70" r="2.5"/><circle cx="760" cy="170" r="2.5"/>
+  </g>
+
+  <path d="M0,196 C150,166 300,226 450,200 C600,174 750,214 900,192 C1050,170 1140,196 1200,186 L1200,260 L0,260 Z" fill="#19E0C4" opacity="0.10"/>
+  <path d="M0,216 C160,190 310,244 460,220 C610,196 760,232 910,212 C1060,192 1150,214 1200,206 L1200,260 L0,260 Z" fill="#19E0C4" opacity="0.16"/>
+
+  <text x="600" y="108" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="62" font-weight="700" fill="#ffffff" letter-spacing="1">Aadil Vora</text>
+  <rect x="520" y="128" width="160" height="3" rx="1.5" fill="url(#accent)"/>
+  <text x="600" y="166" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="21" font-weight="500" fill="#cfe0ff">Senior Full Stack &amp; AI Integration Engineer</text>
+  <text x="600" y="196" text-anchor="middle" font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="15" font-weight="400" fill="#19E0C4" letter-spacing="3">NEXT.JS &#183; LARAVEL &#183; NODE.JS &#183; REACT &#183; OPENAI</text>
+</svg>

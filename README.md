@@ -1,5 +1,5 @@
 <!-- ======================= HEADER ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Aadil%20Vora&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=Senior%20Full%20Stack%20%26%20AI%20Integration%20Engineer&descAlignY=55&descSize=18" alt="Aadil Vora" />
+<img width="100%" src="./banner.svg" alt="Aadil Vora - Senior Full Stack & AI Integration Engineer" />
 
 <p align="center">
   <a href="https://github.com/aadilvora">
@@ -18,7 +18,7 @@
 <br>
 
 <!-- ======================= ABOUT ======================= -->
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="28"> &nbsp;About me
+## 👨‍💻 About me
 
 ```typescript
 const aadil = {
@@ -41,7 +41,7 @@ const aadil = {
 <br>
 
 <!-- ======================= PROJECTS ======================= -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> &nbsp;Production work
+## 🚀 Production work
 
 <table>
 <tr>
@@ -135,7 +135,7 @@ Bespoke WordPress theme built from scratch with ACF Pro — zero page-builder bl
 <br>
 
 <!-- ======================= TECH ======================= -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="28"> &nbsp;Tech stack
+## 🛠️ Tech stack
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
@@ -168,7 +168,7 @@ Bespoke WordPress theme built from scratch with ACF Pro — zero page-builder bl
 <br>
 
 <!-- ======================= STATS ======================= -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"> &nbsp;By the numbers
+## 📈 By the numbers
 
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-4%2B%20years-19E0C4?style=for-the-badge&labelColor=0d1117" alt="Experience">
@@ -187,7 +187,7 @@ Bespoke WordPress theme built from scratch with ACF Pro — zero page-builder bl
 <br>
 
 <!-- ======================= SIDE PROJECT ======================= -->
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> &nbsp;Beyond the day job
+## 🎬 Beyond the day job
 
 I run **[@investwith.clarity.stockmarket](https://www.instagram.com/investwith.clarity.stockmarket/)**,
 an Instagram channel explaining IPOs and the Indian stock market to beginner investors.
@@ -212,4 +212,4 @@ I engineered the entire production pipeline myself:
   <a href="mailto:voraaadil74@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" alt="footer" />
+<img width="100%" src="./footer.svg" alt="" />
