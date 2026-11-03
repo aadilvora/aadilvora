@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://github.com/aadilvora">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=19E0C4&center=true&vCenter=true&width=700&lines=4%2B+years+building+production+systems;Next.js+%7C+Laravel+%7C+Node.js+%7C+React;AI+integration%3A+OpenAI%2C+Retell+AI%2C+WhatsApp+API;30%2B+apps+shipped+for+clients+in+5+countries" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=19E0C4&center=true&vCenter=true&width=700&lines=4%2B+years+of+PHP%2C+WordPress+%26+WooCommerce;Laravel+%7C+Next.js+%7C+React+%7C+Node.js;AI+integration%3A+OpenAI%2C+Retell+AI%2C+WhatsApp+API;30%2B+apps+shipped+for+clients+in+5+countries" alt="Typing SVG" />
   </a>
 </p>
 
@@ -24,6 +24,8 @@
 const aadil = {
   role:       "Lead Full Stack Developer @ Lujayn Infoways",
   since:      "August 2022",
+  coreStack:  ["PHP", "WordPress", "WooCommerce", "MySQL", "JavaScript"],
+  alsoShips:  ["Laravel", "Next.js", "React", "Node.js", "OpenAI"],
   location:   "Ahmedabad, Gujarat, India 🇮🇳",
   shipped:    "30+ web apps, SaaS platforms & commercial plugins",
   clients:    ["USA", "UK", "Spain", "Austria", "Australia"],
@@ -137,33 +139,74 @@ Bespoke WordPress theme built from scratch with ACF Pro — zero page-builder bl
 <!-- ======================= TECH ======================= -->
 ## 🛠️ Tech stack
 
-<p align="center"><b>Languages</b></p>
+<p align="center"><b>Core — 4 years, daily, every project</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,js,ts,html,css,mysql&theme=dark" alt="Languages">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress">
+  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/REST_APIs-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs">
 </p>
 
-<p align="center"><b>Frontend</b></p>
+<p align="center"><b>Frameworks &amp; runtimes</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,jquery,bootstrap&theme=dark" alt="Frontend">
+  <img src="https://skillicons.dev/icons?i=laravel,nextjs,react,nodejs,express,tailwind&theme=dark" alt="Frameworks">
 </p>
 
-<p align="center"><b>Backend &amp; CMS</b></p>
+<p align="center"><b>WordPress engineering</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,wordpress&theme=dark" alt="Backend">
+  <img src="https://img.shields.io/badge/Custom_Themes-21759B?style=flat-square&logoColor=white" alt="Custom Themes">
+  <img src="https://img.shields.io/badge/Plugin_Development-21759B?style=flat-square" alt="Plugin Development">
+  <img src="https://img.shields.io/badge/ACF_Pro-00D3AE?style=flat-square" alt="ACF Pro">
+  <img src="https://img.shields.io/badge/Headless_WP-464646?style=flat-square" alt="Headless WP">
+  <img src="https://img.shields.io/badge/Elementor_Pro-92003B?style=flat-square&logo=elementor&logoColor=white" alt="Elementor Pro">
+  <img src="https://img.shields.io/badge/EDD_Pro-35495E?style=flat-square" alt="EDD Pro">
+  <img src="https://img.shields.io/badge/TranslatePress-0B7285?style=flat-square" alt="TranslatePress">
+  <img src="https://img.shields.io/badge/WP--CLI-787C82?style=flat-square&logo=wordpress&logoColor=white" alt="WP-CLI">
 </p>
 
-<p align="center"><b>AI, APIs &amp; Tooling</b></p>
+<p align="center"><b>AI, APIs &amp; integrations</b></p>
 <p align="center">
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
   <img src="https://img.shields.io/badge/Retell_AI-6366F1?style=for-the-badge" alt="Retell AI">
   <img src="https://img.shields.io/badge/WhatsApp_API-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   <img src="https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white" alt="Twilio">
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe">
-  <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white" alt="WooCommerce">
 </p>
+
+<p align="center"><b>Tooling</b></p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,linux,vscode&theme=dark" alt="Tooling">
 </p>
+
+<details>
+<summary><b>Honest depth — years and level per technology</b></summary>
+
+<br>
+
+| Technology | Years | Level |
+|---|---|---|
+| PHP | 4 | Strong |
+| WordPress (themes, plugins, hooks) | 4 | Strong |
+| WooCommerce | 4 | Strong |
+| MySQL | 4 | Strong |
+| JavaScript (ES6+) / jQuery | 4 | Strong |
+| REST APIs &amp; AJAX | 4 | Strong |
+| Custom themes &amp; ACF Pro | 4 | Strong |
+| Elementor Pro / TranslatePress | 3 | Strong |
+| Laravel | 2.5 | Intermediate-Strong |
+| React.js | 2 | Intermediate-Strong |
+| OpenAI API | 2 | Intermediate-Strong |
+| WhatsApp Business API | 2 | Intermediate-Strong |
+| Next.js | 2 | Intermediate |
+| Node.js / Express | 2 | Intermediate |
+| Tailwind CSS | 2 | Intermediate |
+| Retell AI | 1.5 | Intermediate |
+
+*No hands-on claim for Angular, AWS or Kubernetes — happy to learn, won't pretend.*
+
+</details>
 
 <br>
 
