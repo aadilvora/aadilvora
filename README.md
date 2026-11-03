@@ -229,21 +229,6 @@ Bespoke WordPress theme built from scratch with ACF Pro — zero page-builder bl
 
 <br>
 
-<!-- ======================= SIDE PROJECT ======================= -->
-## 🎬 Beyond the day job
-
-I run **[@investwith.clarity.stockmarket](https://www.instagram.com/investwith.clarity.stockmarket/)**,
-an Instagram channel explaining IPOs and the Indian stock market to beginner investors.
-
-I engineered the entire production pipeline myself:
-
-- 🎬 a **templated reel renderer** that turns a JSON script into a finished 1080×1920 MP4
-- 🖼️ a **4K cover generator** with an automated photo-compositing pipeline (OpenCV + PIL)
-- 💬 a **Meta-compliant comment-to-DM automation service** in Node.js, built entirely on the
-  official Graph API — no scraping, no browser automation
-
-<br>
-
 <!-- ======================= FOOTER ======================= -->
 <p align="center">
   <b>Open to Full Stack / AI Integration Engineer roles — let's talk.</b>
